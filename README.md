@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## npm packages
 
 npm install ngx-quill quill quill-delta --force  
-npm i @types/quill@2 --force   
+npm i @types/quill@1 --force   
 npm i --save-dev @types/quill --force 
