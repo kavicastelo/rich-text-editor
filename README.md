@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## npm packages
+
+npm install ngx-quill quill quill-delta --force  
+npm i @types/quill@2 --force   
+npm i --save-dev @types/quill --force 
