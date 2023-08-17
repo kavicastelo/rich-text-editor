@@ -1,0 +1,1 @@
+cannot use ngx-quill v22 in angular 15. use less than v22 version of ngx-qull
